@@ -38,8 +38,6 @@ I'm a passionate **Full Stack Developer** from **India** 🌍. I enjoy creating 
 </div>
 
 ## 🔥 My GitHub Stats:
-<img src="https://raw.githubusercontent.com/amarbadiger1/amarbadiger1/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="center">
