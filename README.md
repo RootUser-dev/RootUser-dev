@@ -55,13 +55,8 @@ I'm a passionate **Full Stack Developer** from **India** 🌍. I enjoy creating 
   <a href="https://x.com/amarbadiger09" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-  <a href="amarbadiger.work@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
 </div>
-
 ###
-
 ---
 
 Feel free to explore my repositories and connect with me!
