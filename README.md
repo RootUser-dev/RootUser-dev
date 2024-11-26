@@ -35,6 +35,9 @@ I'm a passionate **Full Stack Developer** from **India** 🌍. I enjoy creating 
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+###
 </div>
 
 ## 🔥 My GitHub Stats:
